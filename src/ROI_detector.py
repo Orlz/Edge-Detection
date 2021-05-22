@@ -45,7 +45,7 @@ import numpy as np
 import time
 import cv2
 import argparse
-from utils.imutils import non_max_suppression
+from Edge-Detection.utils.imutils import non_max_suppression
 
 
 
