@@ -122,7 +122,7 @@ The easiest way to access the files is to clone the repository from the command 
 
 ```bash
 #clone repository as Image_Edge_Detection
-git clone https://github.com/Orlz/Image-Edge-Detection.git
+git clone https://github.com/Orlz/Image-Edge-Detection.git Edge_detection
 
 ```
 
